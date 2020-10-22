@@ -8,3 +8,4 @@ El programa se basa en el recocimiento del jitomate (tomate rojo), con la finali
   * ya sea por moho gris
 * No cumpla con el color establecido (no este maduro).
 
+En caso de que no cumpla con estos criterios sera marcado con un ❌
