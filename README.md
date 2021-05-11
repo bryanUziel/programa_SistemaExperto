@@ -1,4 +1,4 @@
-# programa De un Sistema Experto
+# programa de un Sistema Experto
 Programa de automatización sobre el control calidad de jitomate con tratamiento imagenes y perceptrón
 <img src="src/Imagenes/GIf-Grabacion-del-2020-01-01-231535.gif" />
 ## Descripción
